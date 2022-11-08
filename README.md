@@ -17,4 +17,12 @@
 <li><a href="https://trello.com/invite/b/eqqhnG62/ATTI279426cbd21f8065ae490b88407a15c90CD0531E/organizacao" target="_blank">Board no Trello</li>
 <li>Deploy do back end (em breve)</li>
 <li>Deploy do front end(em breve)</li>
+</ul>
+  
+<h2>Conheça o Squad-34</h2>
 <ul>
+<li><a href="https://github.com/amdfd" target="_blank">Amanda Falcão</a></li>
+<li><a href="https://github.com/ogabrieljuca" target="_blank">Gabriel Jucá</a></li>
+<li><a href="https://github.com/Kaiqueliira" target="_blank">Kaique Lira</a></li>
+<li><a href="https://github.com/OctavioJunior" target="_blank">Octavio Junior</a></li>
+</ul>
