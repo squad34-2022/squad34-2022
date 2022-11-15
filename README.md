@@ -15,8 +15,8 @@
 <ul>
 <li><a href="https://www.figma.com/file/aoSA3SEH2hwcV1xncPtMm0/Hackathon---Telas?node-id=0%3A1" target="_blank">Projeto no Figma</a></li>
 <li><a href="https://trello.com/invite/b/eqqhnG62/ATTI279426cbd21f8065ae490b88407a15c90CD0531E/organizacao" target="_blank">Board no Trello</li>
-<li>Deploy do back end (em breve)</li>
-<li>Deploy do front end(em breve)</li>
+<li><a href="https://youtu.be/ET1DTTD7q0o" target="_blank">Pitch em vídeo</li>
+<li>Vídeo das funcionalidades (em breve)</li>
 </ul>
   
 <h2>Conheça o Squad-34</h2>
