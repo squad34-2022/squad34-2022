@@ -15,8 +15,10 @@
 <ul>
 <li>Baixe os repositórios <i>hackathon_squad34_frontend</i> e <i>hackathon_squad34_backend</i></li>
 <li>Abra os repositórios na sua IDE de preferência (recomendamos o VSCode)</li>
+<li>Acessar os dados do arquivo .env <a href="https://pastebin.com/z9ee5gyn" target="_blank">neste link</a>, criar um arquivo .env na pasta src do <i>hackathon_squad34_backend</i>, copie e cole os dados do link no seu arquivo</li>
 <li>Em cada workspace dê os comandos "npm i" para instalar as dependências necessárias e, em seguida, "npm run dev" para rodar tanto o back end quanto o front end, simultaneamente</li>
   <li>Acesse o link que foi gerado pelo vite no repositório do front end e teste a aplicação</li>
+<li>Para testar o dashboard de admin, faça seu cadastro com um email terminado em @fcamara (ex: admin@fcamara.com), e faça login em seguida.</li>
 </ul>
 
 <h2>Links úteis</h2>
